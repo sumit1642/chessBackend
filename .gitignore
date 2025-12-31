@@ -44,3 +44,5 @@ Thumbs.db
 # === Cache ===
 .cache/
 .eslintcache
+
+/generated/prisma
